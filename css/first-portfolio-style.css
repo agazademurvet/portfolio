@@ -154,7 +154,7 @@ strong {
 
 
 /*---------------------------------------
-  PRE LOADER               
+  PRE LOADER...               
 -----------------------------------------*/
 .preloader {
   position: fixed;
@@ -931,7 +931,6 @@ strong {
   .navbar .custom-btn {
     font-size: 13px;
     padding: 6px 12px;
-    border: #000000 2px solid;
   }
 
   .navbar-icon {
